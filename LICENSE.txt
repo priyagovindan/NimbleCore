@@ -1,0 +1,7 @@
+Copyright (c) 2015 by Priya Govindan, Sucheta Soundarajan, Tina Eliassi-Rad, and Christos Faloutsos.
+
+All rights preserved.  
+
+Permission to use it for research, educational and other non-profit purposes is granted. 
+
+Commercial, for-profit use requires written permission of the authors.
